@@ -1,0 +1,13 @@
+/* CSS Document */
+.users-box{
+	border: #0948F3 medium solid;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	height: 150px;
+}
+
+.users-box img{
+	max-height: 100px;
+	padding-top: 20px;
+	padding-left: 15px;
+}
